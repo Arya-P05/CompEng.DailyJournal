@@ -148,10 +148,13 @@ USED THIS PART OF CODE BECAUSE OF KILLSWITCH AND US NEEDING TO TURN ON THE LCD A
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/txwtByyXg9vZmrWPA"
   data-title="Progress Photos - Mesurio"
-  data-description="3 new items added to shared album">
-  <object data="https://lh3.googleusercontent.com/PVyeqlTNCnxlGGs_wqG9yKaPPuXB9g_QqC4YKKtOBff1RtnPdIYkuGWTGpgv_Q6rIushx9BnHcL5pBFiRK4TGD7sX5zm2rUepsKzuKzgG4ZrvcE2AOSyswHznkN9-M7Ju0OfJc8sxw=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/dpesL-jz4X6xCgGGou60KfqJwkcgd7_NB6G_3XplEsIrQzAjhbi8vqwn3KoLSlAejGeKGjelripP2DvwHxeKiqpZhtVjn6Gki5ofXRbal7mavi08uBGNVCySKAHL8jtiWrjrjXwqgQ=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/QHcMaogX5KNDvSIMRprB6S4mIhlbO9yvRPI3YxsdHfKBtpqG_NQAEOVqHgyvmMFgXTgk1tNftN0BYbuIcJUl_r8-D9Ol86ztdeiOE6yo-bUbOVfn1xsNW60L6BYkBbfvZ_BPwNhR7g=w1920-h1080"></object>
+  data-description="6 new items added to shared album">
+  <object data="https://lh3.googleusercontent.com/-C2VXzXcs_AyuQIpY-eo7pNjsGySQY9W3tFbdiEsur3U-OTR1WZ22PScTOJN5f9sM7rpvlSnpcDEoKict0wzYQBhsQOR-Sy2uBa19ebXo5H9lz_ie5yLfAxeHwIQ6FZVBd-KSqAJpQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/Ja5LFtoJnZ8Brq8OBRqwA5DKlr9Oca1UWc24ArdmRnb_9y99u_WY4tRnU1I0RUEiXsI7SbMX0Z1ak-K6H33ftr-ewSRwNc8aONWnabtWK4NHJgImGf9MLRO0qCm5H_YpvafCLgMmRg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/rOd5ZkNfmvMR6yB3rL5f5JxTsiH1ZSBjGazreQZuG3qdifp7NeuK3ylK4TbDvFMrQ7q8eyOSNyGAiVrwqUHM1g_zXZOSHaYkgaPRoYeGPjTxa9Ef5PNs72S2oU9_Icwhf9jTv6i28g=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/Lm9y-8iuwRpH9VVdk1r_VgVcEorEq9Y58u6_mhMv_7OIgXHXE1eGZv1RgxWDbHXepCSCuyU4DT0xcIkXYnJwiw8k3nYFFgSElNazZNUOnGNZeyVLsFJDw-AJeMf_2Mm-ZNUwwWlYRg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/MXfvSFzPIp3ZNSZg2VEEvVp7tytchVxjkeyTagmGNMEoeHvUi7td_gRni4zuuPCJ79Ydp7O_G20uSoCMylcdk3y2p_fzwcwFMt6fq5JLypXkewIl9KiqMJPmOPDyZFJLR0JeKux8wA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/UjfObX1S3IiEEzLAfMvxQWd2cGCacr88yRimTPelPaMrnIZ1waFgQDVI-qrc97DPSCGNu7B-msn3WeAuJBNo8c1Am-3CEkCOOtaMjzhJgZzObEm8LUD4Gcxyt5UbuJdYJ7D2Lvsvmw=w1920-h1080"></object>
 </div>
 
 ### We're Done!
