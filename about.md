@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Final Thoughts - Video
-tagline: Arya Patel
+tagline: Arya Patell
 ---
 
 <div class="blogwidevideo">
