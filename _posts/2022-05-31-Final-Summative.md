@@ -144,6 +144,8 @@ USED THIS PART OF CODE BECAUSE OF KILLSWITCH AND US NEEDING TO TURN ON THE LCD A
 
 **Start creating summative physically:**
 
+The series of photos below showcase how I was able to turn my digital schematic on TinkerCAD into a reality on a breadboard! My first attempt was very messy as I was just trying to get the circuit to work and once it did I realized it needed to change. So i went back and took everything off and organized my materials. Then I rebuilt it but much neater and in a more compact build, proving my efficiency and effectiveness throughout the summative. After that I spent countless hours making sure the apperence of the device was up to par with the standards of a real product. ***This journey was how I went from some lonesome wires and electronic components to making Mesurio!***
+
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/txwtByyXg9vZmrWPA"
