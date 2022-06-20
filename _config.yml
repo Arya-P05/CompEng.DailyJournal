@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: Arya Patel
+description: I’m a student, developer and aspiring computer engineer in a complex world.
+plugins:
+  - jekyll-sitemap
+ 
