@@ -18,13 +18,13 @@ We have been introducted to the final assignment of this course before the final
 
 Using these components I was able to create a schematic on TinkerCAD using the actual schematic given to us by Mr. Chauhan:
 
-<div style="width:100%;height:480px;background-color:black;text-align:center;">
+<div style="width:100%;height:480px;background-color:white;text-align:center;">
   <a href="https://lh3.googleusercontent.com/6QQK8k8VL-KZcgaqqYHiwl3wHfK6xH0fo5Pp65u6tYNm3Ihy0yMwGu0TmIMRaYlxgdCA0XlGmqO9-F7hqhp13ToNYeYY6l793tBFsNkdURT9JkCI7ci4JLRJSpysuVW1rKwrSwExqQ=w1920-h1080" target="_blank">
     <img style="height:100%;border:0;" src="https://lh3.googleusercontent.com/6QQK8k8VL-KZcgaqqYHiwl3wHfK6xH0fo5Pp65u6tYNm3Ihy0yMwGu0TmIMRaYlxgdCA0XlGmqO9-F7hqhp13ToNYeYY6l793tBFsNkdURT9JkCI7ci4JLRJSpysuVW1rKwrSwExqQ=h480" />
   </a>
 </div>
 
-<div style="width:100%;height:480px;background-color:black;text-align:center;">
+<div style="width:100%;height:480px;background-color:white;text-align:center;">
   <a href="https://lh3.googleusercontent.com/pGRIL5buYGSZ8Y50LafuXZ5gSog8OzPlj-HHEvJ0EBLHPHADnOhGnJG-OCWBfsnUgOEsamL3JRXSk68ZBnxo4RTSgxENzjtoud_SpBqy9uKCJMt4U1CpgCO-d9jIMjqUoZZG7CR53g=w1920-h1080" target="_blank">
     <img style="height:100%;border:0;" src="https://lh3.googleusercontent.com/pGRIL5buYGSZ8Y50LafuXZ5gSog8OzPlj-HHEvJ0EBLHPHADnOhGnJG-OCWBfsnUgOEsamL3JRXSk68ZBnxo4RTSgxENzjtoud_SpBqy9uKCJMt4U1CpgCO-d9jIMjqUoZZG7CR53g=h480" />
   </a>
@@ -32,7 +32,7 @@ Using these components I was able to create a schematic on TinkerCAD using the a
 
 By creating this schematic on TinkerCad it made it much easier to create the physical circuit on the breadboard as I just had to follow my correct and working design. Now it came time to actually build and this as easy as like I mentioned I just had to build physically what I had designed.
 
-<div style="width:100%;height:480px;background-color:black;text-align:center;">
+<div style="width:100%;height:480px;background-color:white;text-align:center;">
   <a href="https://lh3.googleusercontent.com/ut5hXH_n1naGB6AEPdM30BMl38mhRecSX3betWYWmnWPVZcYBIOUhcPKoLyMu2VbPBxN-UZtQZmDtI-ug3Fy9ysceB_Ez4tYHvRmwKsjM0ExTZo_wLMsSyz8UuBvHV8nNagC4yNXIQ=w1920-h1080" target="_blank">
     <img style="height:100%;border:0;" src="https://lh3.googleusercontent.com/ut5hXH_n1naGB6AEPdM30BMl38mhRecSX3betWYWmnWPVZcYBIOUhcPKoLyMu2VbPBxN-UZtQZmDtI-ug3Fy9ysceB_Ez4tYHvRmwKsjM0ExTZo_wLMsSyz8UuBvHV8nNagC4yNXIQ=h480" />
   </a>
